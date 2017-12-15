@@ -1,229 +1,151 @@
 {
-
-	"adss": [{
-		"pubContent": {
-			"version": 0.1,
-			"orientation": "portrait",
-			"styleRefs": {
-				"defaultStyle": {
-					"geometry": [0.0, 0.0, 0.0, 0.0]
-				}
-			},
-			"rootContainer": {
-				"assetValue": [{
-					"assetValue": ["<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<VAST version=\"3.0\">\r\n   <Ad id=\"4ca3c7ce-015e-1000-d3f8-001c84c00062\">\r\n      <InLine>\r\n         <AdSystem>InMobi<\/AdSystem>\r\n         <AdTitle>InMobi Product Carousel Ad<\/AdTitle>\r\n         <Impression><![CDATA[http:\/\/et.w.inmobi.com\/c.asm\/C\/b\/et7s3uyix2\/1qt0\/12\/2m\/ba\/u\/0\/0\/0\/eyJVSUQiOiJmZDg4MDQ1OC05ODYzLTQwYzgtOTRlNi01YWE1NTRjMWQxN2EiLCJHUElEIjoiZmQ4ODA0NTgtOTg2My00MGM4LTk0ZTYtNWFhNTU0YzFkMTdhIn0~\/4ca3c7ce-015e-1000-d3f8-001c84c00062\/a691\/0\/-1\/0\/0\/x\/15457206\/NW\/2t\/8\/sdk\/6.9.1\/dir\/Y29tLmlhYnRlY2gubGFi\/FugHJvrR_7zSV4QAEigGTkFUSVZFHBQAFAIcHBaAwPCVwPPjo5kBFrv-9_2f-f_HWAAWwNP92beLzcEjFQASAAA5FcI-IhQAOCZiYWRwbDEwMDFfYnJhbmRfbGhyMV9icmFuZC1hZHBvb2xfcHJvZBQCEjwVAAAsFQAAqAY1LjBFLTQA\/-1\/AA\/7\/61bac17d?m=18&ts=$TS]]><\/Impression>\r\n         <Error><![CDATA[http:\/\/et.w.inmobi.com\/c.asm\/C\/b\/et7s3uyix2\/1qt0\/12\/2m\/ba\/u\/0\/0\/0\/eyJVSUQiOiJmZDg4MDQ1OC05ODYzLTQwYzgtOTRlNi01YWE1NTRjMWQxN2EiLCJHUElEIjoiZmQ4ODA0NTgtOTg2My00MGM4LTk0ZTYtNWFhNTU0YzFkMTdhIn0~\/4ca3c7ce-015e-1000-d3f8-001c84c00062\/a691\/0\/-1\/0\/0\/x\/15457206\/NW\/2t\/8\/sdk\/6.9.1\/dir\/Y29tLmlhYnRlY2gubGFi\/FugHJvrR_7zSV4QAEigGTkFUSVZFHBQAFAIcHBaAwPCVwPPjo5kBFrv-9_2f-f_HWAAWwNP92beLzcEjFQASAAA5FcI-IhQAOCZiYWRwbDEwMDFfYnJhbmRfbGhyMV9icmFuZC1hZHBvb2xfcHJvZBQCEjwVAAAsFQAAqAY1LjBFLTQA\/-1\/AA\/7\/61bac17d?m=99&action=vast-error&label=[ERRORCODE]&__t=$TS]]><\/Error>\r\n         <Creatives>\r\n            <Creative id=\"1\">\r\n               <Linear>\r\n                  <Duration>00:00:30<\/Duration>\r\n                  <TrackingEvents>\r\n                     <Tracking event=\"creativeView\"><![CDATA[http:\/\/et.w.inmobi.com\/c.asm\/C\/b\/et7s3uyix2\/1qt0\/12\/2m\/ba\/u\/0\/0\/0\/eyJVSUQiOiJmZDg4MDQ1OC05ODYzLTQwYzgtOTRlNi01YWE1NTRjMWQxN2EiLCJHUElEIjoiZmQ4ODA0NTgtOTg2My00MGM4LTk0ZTYtNWFhNTU0YzFkMTdhIn0~\/4ca3c7ce-015e-1000-d3f8-001c84c00062\/a691\/0\/-1\/0\/0\/x\/15457206\/NW\/2t\/8\/sdk\/6.9.1\/dir\/Y29tLmlhYnRlY2gubGFi\/FugHJvrR_7zSV4QAEigGTkFUSVZFHBQAFAIcHBaAwPCVwPPjo5kBFrv-9_2f-f_HWAAWwNP92beLzcEjFQASAAA5FcI-IhQAOCZiYWRwbDEwMDFfYnJhbmRfbGhyMV9icmFuZC1hZHBvb2xfcHJvZBQCEjwVAAAsFQAAqAY1LjBFLTQA\/-1\/AA\/7\/61bac17d?m=1&__t=$TS]]><\/Tracking>\r\n                     <Tracking event=\"start\"><![CDATA[http:\/\/et.w.inmobi.com\/c.asm\/C\/b\/et7s3uyix2\/1qt0\/12\/2m\/ba\/u\/0\/0\/0\/eyJVSUQiOiJmZDg4MDQ1OC05ODYzLTQwYzgtOTRlNi01YWE1NTRjMWQxN2EiLCJHUElEIjoiZmQ4ODA0NTgtOTg2My00MGM4LTk0ZTYtNWFhNTU0YzFkMTdhIn0~\/4ca3c7ce-015e-1000-d3f8-001c84c00062\/a691\/0\/-1\/0\/0\/x\/15457206\/NW\/2t\/8\/sdk\/6.9.1\/dir\/Y29tLmlhYnRlY2gubGFi\/FugHJvrR_7zSV4QAEigGTkFUSVZFHBQAFAIcHBaAwPCVwPPjo5kBFrv-9_2f-f_HWAAWwNP92beLzcEjFQASAAA5FcI-IhQAOCZiYWRwbDEwMDFfYnJhbmRfbGhyMV9icmFuZC1hZHBvb2xfcHJvZBQCEjwVAAAsFQAAqAY1LjBFLTQA\/-1\/AA\/7\/61bac17d?m=10&mid=video&mt=1&ml=$MD&__t=$TS]]><\/Tracking>\r\n                     <Tracking event=\"firstQuartile\"><![CDATA[http:\/\/et.w.inmobi.com\/c.asm\/C\/b\/et7s3uyix2\/1qt0\/12\/2m\/ba\/u\/0\/0\/0\/eyJVSUQiOiJmZDg4MDQ1OC05ODYzLTQwYzgtOTRlNi01YWE1NTRjMWQxN2EiLCJHUElEIjoiZmQ4ODA0NTgtOTg2My00MGM4LTk0ZTYtNWFhNTU0YzFkMTdhIn0~\/4ca3c7ce-015e-1000-d3f8-001c84c00062\/a691\/0\/-1\/0\/0\/x\/15457206\/NW\/2t\/8\/sdk\/6.9.1\/dir\/Y29tLmlhYnRlY2gubGFi\/FugHJvrR_7zSV4QAEigGTkFUSVZFHBQAFAIcHBaAwPCVwPPjo5kBFrv-9_2f-f_HWAAWwNP92beLzcEjFQASAAA5FcI-IhQAOCZiYWRwbDEwMDFfYnJhbmRfbGhyMV9icmFuZC1hZHBvb2xfcHJvZBQCEjwVAAAsFQAAqAY1LjBFLTQA\/-1\/AA\/7\/61bac17d?m=12&q=1&mid=video&mt=1&__t=$TS]]><\/Tracking>\r\n                     <Tracking event=\"midpoint\"><![CDATA[http:\/\/et.w.inmobi.com\/c.asm\/C\/b\/et7s3uyix2\/1qt0\/12\/2m\/ba\/u\/0\/0\/0\/eyJVSUQiOiJmZDg4MDQ1OC05ODYzLTQwYzgtOTRlNi01YWE1NTRjMWQxN2EiLCJHUElEIjoiZmQ4ODA0NTgtOTg2My00MGM4LTk0ZTYtNWFhNTU0YzFkMTdhIn0~\/4ca3c7ce-015e-1000-d3f8-001c84c00062\/a691\/0\/-1\/0\/0\/x\/15457206\/NW\/2t\/8\/sdk\/6.9.1\/dir\/Y29tLmlhYnRlY2gubGFi\/FugHJvrR_7zSV4QAEigGTkFUSVZFHBQAFAIcHBaAwPCVwPPjo5kBFrv-9_2f-f_HWAAWwNP92beLzcEjFQASAAA5FcI-IhQAOCZiYWRwbDEwMDFfYnJhbmRfbGhyMV9icmFuZC1hZHBvb2xfcHJvZBQCEjwVAAAsFQAAqAY1LjBFLTQA\/-1\/AA\/7\/61bac17d?m=12&q=2&mid=video&mt=1&__t=$TS]]><\/Tracking>\r\n                     <Tracking event=\"thirdQuartile\"><![CDATA[http:\/\/et.w.inmobi.com\/c.asm\/C\/b\/et7s3uyix2\/1qt0\/12\/2m\/ba\/u\/0\/0\/0\/eyJVSUQiOiJmZDg4MDQ1OC05ODYzLTQwYzgtOTRlNi01YWE1NTRjMWQxN2EiLCJHUElEIjoiZmQ4ODA0NTgtOTg2My00MGM4LTk0ZTYtNWFhNTU0YzFkMTdhIn0~\/4ca3c7ce-015e-1000-d3f8-001c84c00062\/a691\/0\/-1\/0\/0\/x\/15457206\/NW\/2t\/8\/sdk\/6.9.1\/dir\/Y29tLmlhYnRlY2gubGFi\/FugHJvrR_7zSV4QAEigGTkFUSVZFHBQAFAIcHBaAwPCVwPPjo5kBFrv-9_2f-f_HWAAWwNP92beLzcEjFQASAAA5FcI-IhQAOCZiYWRwbDEwMDFfYnJhbmRfbGhyMV9icmFuZC1hZHBvb2xfcHJvZBQCEjwVAAAsFQAAqAY1LjBFLTQA\/-1\/AA\/7\/61bac17d?m=12&q=3&mid=video&mt=1&__t=$TS]]><\/Tracking>\r\n                     <Tracking event=\"complete\"><![CDATA[http:\/\/et.w.inmobi.com\/c.asm\/C\/b\/et7s3uyix2\/1qt0\/12\/2m\/ba\/u\/0\/0\/0\/eyJVSUQiOiJmZDg4MDQ1OC05ODYzLTQwYzgtOTRlNi01YWE1NTRjMWQxN2EiLCJHUElEIjoiZmQ4ODA0NTgtOTg2My00MGM4LTk0ZTYtNWFhNTU0YzFkMTdhIn0~\/4ca3c7ce-015e-1000-d3f8-001c84c00062\/a691\/0\/-1\/0\/0\/x\/15457206\/NW\/2t\/8\/sdk\/6.9.1\/dir\/Y29tLmlhYnRlY2gubGFi\/FugHJvrR_7zSV4QAEigGTkFUSVZFHBQAFAIcHBaAwPCVwPPjo5kBFrv-9_2f-f_HWAAWwNP92beLzcEjFQASAAA5FcI-IhQAOCZiYWRwbDEwMDFfYnJhbmRfbGhyMV9icmFuZC1hZHBvb2xfcHJvZBQCEjwVAAAsFQAAqAY1LjBFLTQA\/-1\/AA\/7\/61bac17d?m=13&mid=video&mt=1&__t=$TS]]><\/Tracking>\r\n                     <Tracking event=\"pause\"><![CDATA[http:\/\/et.w.inmobi.com\/c.asm\/C\/b\/et7s3uyix2\/1qt0\/12\/2m\/ba\/u\/0\/0\/0\/eyJVSUQiOiJmZDg4MDQ1OC05ODYzLTQwYzgtOTRlNi01YWE1NTRjMWQxN2EiLCJHUElEIjoiZmQ4ODA0NTgtOTg2My00MGM4LTk0ZTYtNWFhNTU0YzFkMTdhIn0~\/4ca3c7ce-015e-1000-d3f8-001c84c00062\/a691\/0\/-1\/0\/0\/x\/15457206\/NW\/2t\/8\/sdk\/6.9.1\/dir\/Y29tLmlhYnRlY2gubGFi\/FugHJvrR_7zSV4QAEigGTkFUSVZFHBQAFAIcHBaAwPCVwPPjo5kBFrv-9_2f-f_HWAAWwNP92beLzcEjFQASAAA5FcI-IhQAOCZiYWRwbDEwMDFfYnJhbmRfbGhyMV9icmFuZC1hZHBvb2xfcHJvZBQCEjwVAAAsFQAAqAY1LjBFLTQA\/-1\/AA\/7\/61bac17d?m=14&mid=video&mt=1&__t=$TS]]><\/Tracking>\r\n                     <Tracking event=\"resume\"><![CDATA[http:\/\/et.w.inmobi.com\/c.asm\/C\/b\/et7s3uyix2\/1qt0\/12\/2m\/ba\/u\/0\/0\/0\/eyJVSUQiOiJmZDg4MDQ1OC05ODYzLTQwYzgtOTRlNi01YWE1NTRjMWQxN2EiLCJHUElEIjoiZmQ4ODA0NTgtOTg2My00MGM4LTk0ZTYtNWFhNTU0YzFkMTdhIn0~\/4ca3c7ce-015e-1000-d3f8-001c84c00062\/a691\/0\/-1\/0\/0\/x\/15457206\/NW\/2t\/8\/sdk\/6.9.1\/dir\/Y29tLmlhYnRlY2gubGFi\/FugHJvrR_7zSV4QAEigGTkFUSVZFHBQAFAIcHBaAwPCVwPPjo5kBFrv-9_2f-f_HWAAWwNP92beLzcEjFQASAAA5FcI-IhQAOCZiYWRwbDEwMDFfYnJhbmRfbGhyMV9icmFuZC1hZHBvb2xfcHJvZBQCEjwVAAAsFQAAqAY1LjBFLTQA\/-1\/AA\/7\/61bac17d?m=17&mid=video&mt=1&__t=$TS]]><\/Tracking>\r\n                  <\/TrackingEvents>\r\n                  <VideoClicks>\r\n                     <ClickThrough><![CDATA[http:\/\/www.inmobi.com\/brand\/]]><\/ClickThrough>\r\n                     <ClickTracking><![CDATA[http:\/\/et.w.inmobi.com\/c.asm\/C\/b\/et7s3uyix2\/1qt0\/12\/2m\/ba\/u\/0\/0\/0\/eyJVSUQiOiJmZDg4MDQ1OC05ODYzLTQwYzgtOTRlNi01YWE1NTRjMWQxN2EiLCJHUElEIjoiZmQ4ODA0NTgtOTg2My00MGM4LTk0ZTYtNWFhNTU0YzFkMTdhIn0~\/4ca3c7ce-015e-1000-d3f8-001c84c00062\/a691\/0\/-1\/0\/0\/x\/15457206\/NW\/2t\/8\/sdk\/6.9.1\/dir\/Y29tLmlhYnRlY2gubGFi\/FugHJvrR_7zSV4QAEigGTkFUSVZFHBQAFAIcHBaAwPCVwPPjo5kBFrv-9_2f-f_HWAAWwNP92beLzcEjFQASAAA5FcI-IhQAOCZiYWRwbDEwMDFfYnJhbmRfbGhyMV9icmFuZC1hZHBvb2xfcHJvZBQCEjwVAAAsFQAAqAY1LjBFLTQA\/-1\/AA\/7\/61bac17d?m=8&ts=$TS]]><\/ClickTracking>\r\n                     <ClickTracking><![CDATA[https:\/\/c.w.inmobi.com\/c.asm\/C\/b\/et7s3uyix2\/1qt0\/12\/2m\/ba\/u\/0\/0\/0\/eyJVSUQiOiJmZDg4MDQ1OC05ODYzLTQwYzgtOTRlNi01YWE1NTRjMWQxN2EiLCJHUElEIjoiZmQ4ODA0NTgtOTg2My00MGM4LTk0ZTYtNWFhNTU0YzFkMTdhIn0~\/4ca3c7ce-015e-1000-d3f8-001c84c00062\/a691\/0\/-1\/1\/0\/x\/15457206\/NW\/2t\/8\/sdk\/6.9.1\/dir\/Y29tLmlhYnRlY2gubGFi\/FugHJvrR_7zSV4QAEigGTkFUSVZFHBQAFAIcHBaAwPCVwPPjo5kBFrv-9_2f-f_HWAAWwNP92beLzcEjFQASAAA5FcI-IhQAOCZiYWRwbDEwMDFfYnJhbmRfbGhyMV9icmFuZC1hZHBvb2xfcHJvZBQCEjwVAAAsFQAAqAY1LjBFLTQA\/-1\/AA\/7\/707c2c03?at=0&am=0&ct=$TS]]><\/ClickTracking>\r\n                  <\/VideoClicks>\r\n                  <MediaFiles>\r\n                     <MediaFile delivery=\"progressive\" type=\"video\/mp4\" bitrate=\"890\" width=\"854\" height=\"480\" scalable=\"false\" maintainAspectRatio=\"true\"><![CDATA[https:\/\/i.l.inmobicdn.net\/helix\/asset\/default\/c7adac20f8054603b7e678a15f47be0a\/transcoded\/video.480.mp4]]><\/MediaFile>\r\n                     <MediaFile delivery=\"progressive\" type=\"video\/mp4\" bitrate=\"608\" width=\"640\" height=\"360\" scalable=\"false\" maintainAspectRatio=\"true\"><![CDATA[https:\/\/i.l.inmobicdn.net\/helix\/asset\/default\/c7adac20f8054603b7e678a15f47be0a\/transcoded\/video.360.mp4]]><\/MediaFile>\r\n                     <MediaFile delivery=\"progressive\" type=\"video\/mp4\" bitrate=\"1138\" width=\"1280\" height=\"720\" scalable=\"false\" maintainAspectRatio=\"true\"><![CDATA[https:\/\/i.l.inmobicdn.net\/helix\/asset\/default\/c7adac20f8054603b7e678a15f47be0a\/transcoded\/video.720.mp4]]><\/MediaFile>\r\n                  <\/MediaFiles>\r\n               <\/Linear>\r\n            <\/Creative>\r\n            <Creative id=\"2\">\r\n               <CompanionAds \/>\r\n            <\/Creative>\r\n         <\/Creatives>\r\n       <Extensions>\r\n                <Extension>\r\n                    <AVID>\r\n                        <AdVerifications>\r\n                            <Verification>\r\n                                <JavaScriptResource>\r\n                                    <![CDATA[ https:\/\/mobile-static.adsafeprotected.com\/static\/creative\/avid-certification\/scripts\/placement-avid-logging.js?placementId=a691 ]]>\r\n                                <\/JavaScriptResource>\r\n                            <\/Verification>\r\n                        <\/AdVerifications>\r\n                    <\/AVID>\r\n                <\/Extension>\r\n            <\/Extensions>\r\n\r\n      <\/InLine>\r\n   <\/Ad>\r\n<\/VAST>"],
-					"showMute": false,
-					"soundOn": false,
-					"loop": true,
-					"autoPlay": true,
-					"assetId": "109",
-					"assetName": "videoAsset",
-					"assetType": "VIDEO",
-					"assetStyle": {
-						"geometry": [0.0, 0.0, 411.0, 232.0]
-					},
-					"trackers": [{
-						"trackerType": "URL_PING",
-						"uiEvent": "IAS_VIEWABILITY",
-						"passThroughJson": {
-							"urls": ["https://pixel.adsafeprotected.com/jload?anId\u003d9883\u0026campId\u003dIAS_HTML_JSS_CM\u0026pubId\u003dinfeed_cf22_ias\u0026chanId\u003dYP2KW6ZV\u0026placementId\u003da691"]
-						}
-					}]
-				}, {
-					"assetValue": ["https://i.l.inmobicdn.net/ifctpads/IFC/CCN/assets/transparent1486721946.png"],
-					"assetName": "videoOverlay",
-					"assetType": "image",
-					"assetStyle": {
-						"geometry": [0.0, 0.0, 411.0, 232.0],
-						"contentMode": "aspectFit"
-					},
-					"assetOnclick": {
-						"action": "fullscreen"
-					},
-					"trackers": [{
-						"trackerType": "URL_PING",
-						"url": "http://et.w.inmobi.com/c.asm/C/b/et7s3uyix2/1qt0/12/2m/ba/u/0/0/0/eyJVSUQiOiJmZDg4MDQ1OC05ODYzLTQwYzgtOTRlNi01YWE1NTRjMWQxN2EiLCJHUElEIjoiZmQ4ODA0NTgtOTg2My00MGM4LTk0ZTYtNWFhNTU0YzFkMTdhIn0~/4ca3c7ce-015e-1000-d3f8-001c84c00062/a691/0/-1/0/0/x/15457206/NW/2t/8/sdk/6.9.1/dir/Y29tLmlhYnRlY2gubGFi/FugHJvrR_7zSV4QAEigGTkFUSVZFHBQAFAIcHBaAwPCVwPPjo5kBFrv-9_2f-f_HWAAWwNP92beLzcEjFQASAAA5FcI-IhQAOCZiYWRwbDEwMDFfYnJhbmRfbGhyMV9icmFuZC1hZHBvb2xfcHJvZBQCEjwVAAAsFQAAqAY1LjBFLTQA/-1/AA/7/61bac17d?m\u003d2\u0026__t\u003d$TS",
-						"uiEvent": "CLICK"
-					}]
-				}],
-				"assetName": "root",
-				"assetType": "container",
-				"assetStyle": {
-					"backgroundColor": "#ff7f7f7f",
-					"geometry": [0.0, 0.0, 411.0, 232.0]
-				},
-				"trackers": [{
-					"trackerType": "URL_PING",
-					"url": "http://au.w.inmobi.com/c.asm/C/-1/et7s3uyix2/1qt0/12/2m/ba/u/0/0/0/-1/4ca3c7ce-015e-1000-d3b8-001b00210062/a691/0/-1/0/0/x/-1/NW/-1/8/sdk/6.9.1/dir/Y29tLmlhYnRlY2gubGFi/BCoCOCZiYWRwbDEwMDFfYnJhbmRfbGhyMV9icmFuZC1hZHBvb2xfcHJvZAA/-1/HBaAwPCVwPPjo5kBFrv-9_2f-f_HWAAW6AcW-tH_vNJXFsDT_dm3i83BIxUAFQIYBk5BVElWRQA/7/1b0e9584?m\u003d120\u0026ts\u003d$TS",
-					"uiEvent": "CLIENT_FILL"
-				}]
-			},
-			"pages": [{
-				"version": 0.1,
-				"orientation": "portrait",
-				"disableBackButton": true,
-				"styleRefs": {
-					"defaultStyle": {
-						"geometry": [0.0, 0.0, 0.0, 0.0]
-					}
-				},
-				"rootContainer": {
-					"assetValue": [{
-						"assetValue": ["https://i.l.inmobicdn.net/helix/asset/default/image/0bbde0bb8ae2402190aee961f6d3ee2a/original.png"],
-						"assetName": "background",
-						"assetType": "image",
-						"assetStyle": {
-							"backgroundColor": "#00000000",
-							"geometry": [0.0, 0.0, 411.0, 683.0],
-							"contentMode": "aspectFill"
-						}
-					}, {
-						"assetValue": ["109"],
-						"showMute": false,
-						"soundOn": true,
-						"showProgress": true,
-						"loop": true,
-						"assetId": "110",
-						"assetName": "videoRefAsset",
-						"assetType": "VIDEO",
-						"assetStyle": {
-							"geometry": [0.0, 0.0, 411.0, 232.0]
-						},
-						"valueType": "reference"
-					}, {
-						"assetValue": ["https://i.l.inmobicdn.net/helix/asset/default/image/9c252637ea6b4a6c83a6efe6bbceab65/original.png"],
-						"display": {
-							"delay": 0.0,
-							"type": "absolute",
-							"reference": "109"
-						},
-						"assetName": "brandLogo",
-						"assetType": "image",
-						"assetStyle": {
-							"geometry": [0.0, 237.48, 411.0, 81.96],
-							"contentMode": "aspectFit"
-						},
-						"assetOnclick": {
-							"action": "exit",
-							"itemUrl": "109|click|video",
-							"openMode": "EXTERNAL"
-						}
-					}, {
-						"assetValue": ["https://i.l.inmobicdn.net/helix/system/asset/learn_more_cta_en.png"],
-						"assetName": "cta",
-						"assetType": "image",
-						"assetStyle": {
-							"backgroundColor": "#00000000",
-							"geometry": [41.099999999999994, 473.5849263081239, 328.8, 48.797173144876325],
-							"contentMode": "aspectFit"
-						},
-						"assetOnclick": {
-							"action": "exit",
-							"itemUrl": "109|click|video",
-							"openMode": "EXTERNAL"
-						}
-					}, {
-						"assetValue": ["https://i.l.inmobicdn.net/ifctpads/IFC/CCN/assets/Close1497507728.png"],
-						"assetName": "cross_button",
-						"assetType": "image",
-						"assetStyle": {
-							"geometry": [13.152000000000001, 13.152000000000001, 21.92, 21.92],
-							"contentMode": "aspectFit"
-						},
-						"assetOnclick": {
-							"action": "exit"
-						},
-						"trackers": [{
-							"trackerType": "URL_PING",
-							"url": "http://et.w.inmobi.com/c.asm/C/b/et7s3uyix2/1qt0/12/2m/ba/u/0/0/0/eyJVSUQiOiJmZDg4MDQ1OC05ODYzLTQwYzgtOTRlNi01YWE1NTRjMWQxN2EiLCJHUElEIjoiZmQ4ODA0NTgtOTg2My00MGM4LTk0ZTYtNWFhNTU0YzFkMTdhIn0~/4ca3c7ce-015e-1000-d3f8-001c84c00062/a691/0/-1/0/0/x/15457206/NW/2t/8/sdk/6.9.1/dir/Y29tLmlhYnRlY2gubGFi/FugHJvrR_7zSV4QAEigGTkFUSVZFHBQAFAIcHBaAwPCVwPPjo5kBFrv-9_2f-f_HWAAWwNP92beLzcEjFQASAAA5FcI-IhQAOCZiYWRwbDEwMDFfYnJhbmRfbGhyMV9icmFuZC1hZHBvb2xfcHJvZBQCEjwVAAAsFQAAqAY1LjBFLTQA/-1/AA/7/61bac17d?m\u003d3\u0026__t\u003d$TS",
-							"uiEvent": "CLICK"
-						}]
-					}, {
-						"assetValue": ["https://i.l.inmobicdn.net/ifctpads/IFC/CCN/assets/transparent1486721946.png"],
-						"assetName": "closeButtonOverlay",
-						"assetType": "image",
-						"assetStyle": {
-							"geometry": [0.0, 0.0, 60.0, 60.0],
-							"contentMode": "aspectFit"
-						},
-						"assetOnclick": {
-							"action": "exit"
-						},
-						"trackers": [{
-							"trackerType": "URL_PING",
-							"url": "http://et.w.inmobi.com/c.asm/C/b/et7s3uyix2/1qt0/12/2m/ba/u/0/0/0/eyJVSUQiOiJmZDg4MDQ1OC05ODYzLTQwYzgtOTRlNi01YWE1NTRjMWQxN2EiLCJHUElEIjoiZmQ4ODA0NTgtOTg2My00MGM4LTk0ZTYtNWFhNTU0YzFkMTdhIn0~/4ca3c7ce-015e-1000-d3f8-001c84c00062/a691/0/-1/0/0/x/15457206/NW/2t/8/sdk/6.9.1/dir/Y29tLmlhYnRlY2gubGFi/FugHJvrR_7zSV4QAEigGTkFUSVZFHBQAFAIcHBaAwPCVwPPjo5kBFrv-9_2f-f_HWAAWwNP92beLzcEjFQASAAA5FcI-IhQAOCZiYWRwbDEwMDFfYnJhbmRfbGhyMV9icmFuZC1hZHBvb2xfcHJvZBQCEjwVAAAsFQAAqAY1LjBFLTQA/-1/AA/7/61bac17d?m\u003d3\u0026__t\u003d$TS",
-							"uiEvent": "CLICK"
-						}]
-					}, {
-						"assetValue": ["https://i.l.inmobicdn.net/ifctpads/IFC/CCN/assets/DAAfinal1476775083.png"],
-						"assetName": "adChoicesButton",
-						"assetType": "image",
-						"assetStyle": {
-							"geometry": [384.69599999999997, 656.696, 21.92, 21.92],
-							"contentMode": "aspectFit"
-						},
-						"assetOnclick": {
-							"itemUrl": "https://www.inmobi.com/ad-opt-out?i\u003d%7B%22GPID%22%3A%22fd880458-9863-40c8-94e6-5aa554c1d17a%22%7D",
-							"openMode": "EXTERNAL"
-						}
-					}, {
-						"assetValue": ["https://i.l.inmobicdn.net/ifctpads/IFC/CCN/assets/transparent1486721946.png"],
-						"assetName": "adChoicesOverlay",
-						"assetType": "image",
-						"assetStyle": {
-							"geometry": [378.12, 650.12, 32.88, 32.88],
-							"contentMode": "aspectFit"
-						},
-						"assetOnclick": {
-							"itemUrl": "https://www.inmobi.com/ad-opt-out?i\u003d%7B%22GPID%22%3A%22fd880458-9863-40c8-94e6-5aa554c1d17a%22%7D",
-							"openMode": "EXTERNAL"
-						}
-					}],
-					"assetName": "root",
-					"assetType": "container",
-					"assetStyle": {
-						"backgroundColor": "#00000000",
-						"geometry": [0.0, 0.0, 411.0, 683.0]
-					}
-				}
-			}],
-			"adContent": {
-				"title": "Lorem Ipsum",
-				"description": "Click to know more...",
-				"iconUrl": "https://i.l.inmobicdn.net/helix/asset/default/image/8570ff17dfbf4b2294f492e10492c476/original.jpg",
-				"ctaText": "KNOW MORE",
-				"landingPageUrl": "http://www.inmobi.com/brand/",
-				"isApp": false
-			},
-			"passThroughJson": {
-				"icon": {
-					"url": "https://i.l.inmobicdn.net/helix/asset/default/image/8570ff17dfbf4b2294f492e10492c476/original.jpg",
-					"width": 500.0,
-					"height": 500.0,
-					"aspectRatio": 1.0
-				}
-			},
-			"onClick": {
-				"itemUrl": "109|click|video",
-				"openMode": "EXTERNAL"
-			},
-			"trackers": [{
-				"trackerType": "URL_PING",
-				"url": "http://et.w.inmobi.com/c.asm/C/b/et7s3uyix2/1qt0/12/2m/ba/u/0/0/0/eyJVSUQiOiJmZDg4MDQ1OC05ODYzLTQwYzgtOTRlNi01YWE1NTRjMWQxN2EiLCJHUElEIjoiZmQ4ODA0NTgtOTg2My00MGM4LTk0ZTYtNWFhNTU0YzFkMTdhIn0~/4ca3c7ce-015e-1000-d3f8-001c84c00062/a691/0/-1/0/0/x/15457206/NW/2t/8/sdk/6.9.1/dir/Y29tLmlhYnRlY2gubGFi/FugHJvrR_7zSV4QAEigGTkFUSVZFHBQAFAIcHBaAwPCVwPPjo5kBFrv-9_2f-f_HWAAWwNP92beLzcEjFQASAAA5FcI-IhQAOCZiYWRwbDEwMDFfYnJhbmRfbGhyMV9icmFuZC1hZHBvb2xfcHJvZBQCEjwVAAAsFQAAqAY1LjBFLTQA/-1/AA/7/61bac17d?m\u003d8\u0026ts\u003d$TS",
-				"uiEvent": "CLICK"
-			}, {
-				"trackerType": "URL_PING",
-				"url": "https://c.w.inmobi.com/c.asm/C/b/et7s3uyix2/1qt0/12/2m/ba/u/0/0/0/eyJVSUQiOiJmZDg4MDQ1OC05ODYzLTQwYzgtOTRlNi01YWE1NTRjMWQxN2EiLCJHUElEIjoiZmQ4ODA0NTgtOTg2My00MGM4LTk0ZTYtNWFhNTU0YzFkMTdhIn0~/4ca3c7ce-015e-1000-d3f8-001c84c00062/a691/0/-1/1/0/x/15457206/NW/2t/8/sdk/6.9.1/dir/Y29tLmlhYnRlY2gubGFi/FugHJvrR_7zSV4QAEigGTkFUSVZFHBQAFAIcHBaAwPCVwPPjo5kBFrv-9_2f-f_HWAAWwNP92beLzcEjFQASAAA5FcI-IhQAOCZiYWRwbDEwMDFfYnJhbmRfbGhyMV9icmFuZC1hZHBvb2xfcHJvZBQCEjwVAAAsFQAAqAY1LjBFLTQA/-1/AA/7/707c2c03?at\u003d0\u0026am\u003d0\u0026ct\u003d$TS",
-				"uiEvent": "CLICK"
-			}]
-		},
-		"markupType": "inmobiJson",
-		"expiry": 9000,
-		"adContext": "{}",
-		"metaInfo": {
-			"creativeType": "video",
-			"iasEnabled": true
-		}
-	}],
-	"requestId": "4ca3c77f-015e-1000-cf00-00b000000060"
+  "aliceblue": [240, 248, 255, 1],
+  "antiquewhite": [250, 235, 215, 1],
+  "aqua": [0, 255, 255, 1],
+  "aquamarine": [127, 255, 212, 1],
+  "azure": [240, 255, 255, 1],
+  "beige": [245, 245, 220, 1],
+  "bisque": [255, 228, 196, 1],
+  "black": [0, 0, 0, 1],
+  "blanchedalmond": [255, 235, 205, 1],
+  "blue": [0, 0, 255, 1],
+  "blueviolet": [138, 43, 226, 1],
+  "brown": [165, 42, 42, 1],
+  "burlywood": [222, 184, 135, 1],
+  "cadetblue": [95, 158, 160, 1],
+  "chartreuse": [127, 255, 0, 1],
+  "chocolate": [210, 105, 30, 1],
+  "coral": [255, 127, 80, 1],
+  "cornflowerblue": [100, 149, 237, 1],
+  "cornsilk": [255, 248, 220, 1],
+  "crimson": [220, 20, 60, 1],
+  "cyan": [0, 255, 255, 1],
+  "darkblue": [0, 0, 139, 1],
+  "darkcyan": [0, 139, 139, 1],
+  "darkgoldenrod": [184, 134, 11, 1],
+  "darkgray": [169, 169, 169, 1],
+  "darkgreen": [0, 100, 0, 1],
+  "darkgrey": [169, 169, 169, 1],
+  "darkkhaki": [189, 183, 107, 1],
+  "darkmagenta": [139, 0, 139, 1],
+  "darkolivegreen": [85, 107, 47, 1],
+  "darkorange": [255, 140, 0, 1],
+  "darkorchid": [153, 50, 204, 1],
+  "darkred": [139, 0, 0, 1],
+  "darksalmon": [233, 150, 122, 1],
+  "darkseagreen": [143, 188, 143, 1],
+  "darkslateblue": [72, 61, 139, 1],
+  "darkslategray": [47, 79, 79, 1],
+  "darkslategrey": [47, 79, 79, 1],
+  "darkturquoise": [0, 206, 209, 1],
+  "darkviolet": [148, 0, 211, 1],
+  "deeppink": [255, 20, 147, 1],
+  "deepskyblue": [0, 191, 255, 1],
+  "dimgray": [105, 105, 105, 1],
+  "dimgrey": [105, 105, 105, 1],
+  "dodgerblue": [30, 144, 255, 1],
+  "firebrick": [178, 34, 34, 1],
+  "floralwhite": [255, 250, 240, 1],
+  "forestgreen": [34, 139, 34, 1],
+  "fuchsia": [255, 0, 255, 1],
+  "gainsboro": [220, 220, 220, 1],
+  "ghostwhite": [248, 248, 255, 1],
+  "gold": [255, 215, 0, 1],
+  "goldenrod": [218, 165, 32, 1],
+  "gray": [128, 128, 128, 1],
+  "green": [0, 128, 0, 1],
+  "greenyellow": [173, 255, 47, 1],
+  "grey": [128, 128, 128, 1],
+  "honeydew": [240, 255, 240, 1],
+  "hotpink": [255, 105, 180, 1],
+  "indianred": [205, 92, 92, 1],
+  "indigo": [75, 0, 130, 1],
+  "ivory": [255, 255, 240, 1],
+  "khaki": [240, 230, 140, 1],
+  "lavender": [230, 230, 250, 1],
+  "lavenderblush": [255, 240, 245, 1],
+  "lawngreen": [124, 252, 0, 1],
+  "lemonchiffon": [255, 250, 205, 1],
+  "lightblue": [173, 216, 230, 1],
+  "lightcoral": [240, 128, 128, 1],
+  "lightcyan": [224, 255, 255, 1],
+  "lightgoldenrodyellow": [250, 250, 210, 1],
+  "lightgray": [211, 211, 211, 1],
+  "lightgreen": [144, 238, 144, 1],
+  "lightgrey": [211, 211, 211, 1],
+  "lightpink": [255, 182, 193, 1],
+  "lightsalmon": [255, 160, 122, 1],
+  "lightseagreen": [32, 178, 170, 1],
+  "lightskyblue": [135, 206, 250, 1],
+  "lightslategray": [119, 136, 153, 1],
+  "lightslategrey": [119, 136, 153, 1],
+  "lightsteelblue": [176, 196, 222, 1],
+  "lightyellow": [255, 255, 224, 1],
+  "lime": [0, 255, 0, 1],
+  "limegreen": [50, 205, 50, 1],
+  "linen": [250, 240, 230, 1],
+  "magenta": [255, 0, 255, 1],
+  "maroon": [128, 0, 0, 1],
+  "mediumaquamarine": [102, 205, 170, 1],
+  "mediumblue": [0, 0, 205, 1],
+  "mediumorchid": [186, 85, 211, 1],
+  "mediumpurple": [147, 112, 219, 1],
+  "mediumseagreen": [60, 179, 113, 1],
+  "mediumslateblue": [123, 104, 238, 1],
+  "mediumspringgreen": [0, 250, 154, 1],
+  "mediumturquoise": [72, 209, 204, 1],
+  "mediumvioletred": [199, 21, 133, 1],
+  "midnightblue": [25, 25, 112, 1],
+  "mintcream": [245, 255, 250, 1],
+  "mistyrose": [255, 228, 225, 1],
+  "moccasin": [255, 228, 181, 1],
+  "navajowhite": [255, 222, 173, 1],
+  "navy": [0, 0, 128, 1],
+  "oldlace": [253, 245, 230, 1],
+  "olive": [128, 128, 0, 1],
+  "olivedrab": [107, 142, 35, 1],
+  "orange": [255, 165, 0, 1],
+  "orangered": [255, 69, 0, 1],
+  "orchid": [218, 112, 214, 1],
+  "palegoldenrod": [238, 232, 170, 1],
+  "palegreen": [152, 251, 152, 1],
+  "paleturquoise": [175, 238, 238, 1],
+  "palevioletred": [219, 112, 147, 1],
+  "papayawhip": [255, 239, 213, 1],
+  "peachpuff": [255, 218, 185, 1],
+  "peru": [205, 133, 63, 1],
+  "pink": [255, 192, 203, 1],
+  "plum": [221, 160, 221, 1],
+  "powderblue": [176, 224, 230, 1],
+  "purple": [128, 0, 128, 1],
+  "red": [255, 0, 0, 1],
+  "rosybrown": [188, 143, 143, 1],
+  "royalblue": [65, 105, 225, 1],
+  "saddlebrown": [139, 69, 19, 1],
+  "salmon": [250, 128, 114, 1],
+  "sandybrown": [244, 164, 96, 1],
+  "seagreen": [46, 139, 87, 1],
+  "seashell": [255, 245, 238, 1],
+  "sienna": [160, 82, 45, 1],
+  "silver": [192, 192, 192, 1],
+  "skyblue": [135, 206, 235, 1],
+  "slateblue": [106, 90, 205, 1],
+  "slategray": [112, 128, 144, 1],
+  "slategrey": [112, 128, 144, 1],
+  "snow": [255, 250, 250, 1],
+  "springgreen": [0, 255, 127, 1],
+  "steelblue": [70, 130, 180, 1],
+  "tan": [210, 180, 140, 1],
+  "teal": [0, 128, 128, 1],
+  "thistle": [216, 191, 216, 1],
+  "tomato": [255, 99, 71, 1],
+  "transparent": [0, 0, 0, 0],
+  "turquoise": [64, 224, 208, 1],
+  "violet": [238, 130, 238, 1],
+  "wheat": [245, 222, 179, 1],
+  "white": [255, 255, 255, 1],
+  "whitesmoke": [245, 245, 245, 1],
+  "yellow": [255, 255, 0, 1],
+  "yellowgreen": [154, 205, 50, 1],
+  "rebeccapurple": [102, 51, 153, 1]
 }
